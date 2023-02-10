@@ -1,0 +1,103 @@
+html,
+body {
+    height: 100%;
+}
+
+header {
+    font-size: 1.2rem;
+}
+
+.menu {
+    background-color: #1b1b1e;
+    padding: .5rem;
+}
+
+.navbar {
+    margin-left: 2rem;
+}
+
+.cards {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    display: flex;
+    position: relative;
+}
+
+
+#about_title {
+    box-shadow: 0 16px 32px rgba(22, 39, 106, 0.251);
+    display: flex;
+    align-items: center;
+}
+
+#about_title h1 {
+    margin: 0 auto;
+    color: black;
+    font-size: 4.5rem;
+    font-weight: bold;
+    line-height: 120%;
+}
+
+
+.about-section {
+    padding: 4rem;
+}
+
+.education {
+    color: #fff;
+    background-color: #1b1b1e;
+
+}
+
+.education li,
+.hobbies li,
+.technical li,
+footer {
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+img {
+    width: 100%;
+}
+
+.hobbies {
+    background-color: #14213d;
+    color: #fff;
+
+}
+
+
+#concerts {
+    padding-top: 4rem;
+    text-align: center;
+}
+
+h3 {
+    padding-bottom: 1.5rem;
+}
+
+figure {
+    font-size: 1.2rem;
+}
+
+.technical {
+    background-color: #9d0208;
+    color: #fff;
+}
+
+
+footer {
+    background-color: #1b1b1e;
+    color: #fff;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+footer a {
+    float: right;
+}
+
+.nav_link {
+    font-size: 2rem;
+}
